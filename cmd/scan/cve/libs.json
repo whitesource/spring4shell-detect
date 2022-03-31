@@ -1,0 +1,2568 @@
+{
+  "CVE-2022-22963": {
+    "b37077107f7ee4bcb72703d3d73597e05ae36f75": {
+      "sha1": "b37077107f7ee4bcb72703d3d73597e05ae36f75",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "2.1.0.RC1",
+      "fileName": "spring-cloud-function-context-2.1.0.RC1.jar"
+    },
+    "04baaf749314600f9500779bd7c94ae6aa204724": {
+      "sha1": "04baaf749314600f9500779bd7c94ae6aa204724",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.1.6",
+      "fileName": "spring-cloud-function-context-3.1.6.jar"
+    },
+    "a56bf4dbc661b212fdfb947a47a61357d37c5db5": {
+      "sha1": "a56bf4dbc661b212fdfb947a47a61357d37c5db5",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.0.14.RELEASE",
+      "fileName": "spring-cloud-function-context-3.0.14.RELEASE.jar"
+    },
+    "3b1b11733424ba90bd0b030a924e6b7deb2ff845": {
+      "sha1": "3b1b11733424ba90bd0b030a924e6b7deb2ff845",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.2.1",
+      "fileName": "spring-cloud-function-context-3.2.1.jar"
+    },
+    "2af6d5a33b8c1da127b5f8ee9fe6f4143558393b": {
+      "sha1": "2af6d5a33b8c1da127b5f8ee9fe6f4143558393b",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "1.0.1.RELEASE",
+      "fileName": "spring-cloud-function-context-1.0.1.RELEASE.jar"
+    },
+    "e81dd2f243626ea6dc6c6109513f114c24516b74": {
+      "sha1": "e81dd2f243626ea6dc6c6109513f114c24516b74",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "2.0.0.RC3",
+      "fileName": "spring-cloud-function-context-2.0.0.RC3.jar"
+    },
+    "b8893fb3768bb8fed84b2d4688306490aa6e8236": {
+      "sha1": "b8893fb3768bb8fed84b2d4688306490aa6e8236",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "1.0.0.RELEASE",
+      "fileName": "spring-cloud-function-context-1.0.0.RELEASE.jar"
+    },
+    "8ebedaddb627ea60ef02dae6730bc9af1e32354a": {
+      "sha1": "8ebedaddb627ea60ef02dae6730bc9af1e32354a",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "2.0.0.M4",
+      "fileName": "spring-cloud-function-context-2.0.0.M4.jar"
+    },
+    "2b854fd5849e6392772fc08bc2a9c09b8f03e09e": {
+      "sha1": "2b854fd5849e6392772fc08bc2a9c09b8f03e09e",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.0.0.RELEASE",
+      "fileName": "spring-cloud-function-context-3.0.0.RELEASE.jar"
+    },
+    "7b69c10ba4cd7a86371492a81bdbf6dab169df57": {
+      "sha1": "7b69c10ba4cd7a86371492a81bdbf6dab169df57",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.0.0.M1",
+      "fileName": "spring-cloud-function-context-3.0.0.M1.jar"
+    },
+    "eb20ed05cea9153f1445691daa6b905b22490075": {
+      "sha1": "eb20ed05cea9153f1445691daa6b905b22490075",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "2.0.0.RC2",
+      "fileName": "spring-cloud-function-context-2.0.0.RC2.jar"
+    },
+    "b318e421d4e901f9c346eb74c51088103bbc715a": {
+      "sha1": "b318e421d4e901f9c346eb74c51088103bbc715a",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.0.6.RELEASE",
+      "fileName": "spring-cloud-function-context-3.0.6.RELEASE.jar"
+    },
+    "33324afb2b53a5e83c41bce8a5a752c968d531db": {
+      "sha1": "33324afb2b53a5e83c41bce8a5a752c968d531db",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.0.2.RELEASE",
+      "fileName": "spring-cloud-function-context-3.0.2.RELEASE.jar"
+    },
+    "9ff0d09424fc04c9262e7a3d1572d90661a05bd6": {
+      "sha1": "9ff0d09424fc04c9262e7a3d1572d90661a05bd6",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.0.11.RELEASE",
+      "fileName": "spring-cloud-function-context-3.0.11.RELEASE.jar"
+    },
+    "be334c3f1fe441ca3a9b459cc2175dcfd32bd3db": {
+      "sha1": "be334c3f1fe441ca3a9b459cc2175dcfd32bd3db",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.0.9.RELEASE",
+      "fileName": "spring-cloud-function-context-3.0.9.RELEASE.jar"
+    },
+    "1fb28f558988d53b76c3709a3cfb4d36e520d7cd": {
+      "sha1": "1fb28f558988d53b76c3709a3cfb4d36e520d7cd",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "2.0.2.RELEASE",
+      "fileName": "spring-cloud-function-context-2.0.2.RELEASE.jar"
+    },
+    "9f011d80b05c2e8354775ab7a002d2b555e8561e": {
+      "sha1": "9f011d80b05c2e8354775ab7a002d2b555e8561e",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.0.12.RELEASE",
+      "fileName": "spring-cloud-function-context-3.0.12.RELEASE.jar"
+    },
+    "004b60a3f6b1fbd737f062ddf56857c0a17ab04a": {
+      "sha1": "004b60a3f6b1fbd737f062ddf56857c0a17ab04a",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.0.1.RELEASE",
+      "fileName": "spring-cloud-function-context-3.0.1.RELEASE.jar"
+    },
+    "ca47eb6346afce10981f32d560b03085b06f8969": {
+      "sha1": "ca47eb6346afce10981f32d560b03085b06f8969",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "2.0.0.M3",
+      "fileName": "spring-cloud-function-context-2.0.0.M3.jar"
+    },
+    "def8b3fa574ad6201b62fb7ca8e21697455b7658": {
+      "sha1": "def8b3fa574ad6201b62fb7ca8e21697455b7658",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "2.0.0.RC1",
+      "fileName": "spring-cloud-function-context-2.0.0.RC1.jar"
+    },
+    "f2f3fd0316b01326d7a9e8054da9ff9178c27e79": {
+      "sha1": "f2f3fd0316b01326d7a9e8054da9ff9178c27e79",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.0.0.M3",
+      "fileName": "spring-cloud-function-context-3.0.0.M3.jar"
+    },
+    "f4a6ec99ac6b6964e0275363be2fba9932ffe31c": {
+      "sha1": "f4a6ec99ac6b6964e0275363be2fba9932ffe31c",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.1.5",
+      "fileName": "spring-cloud-function-context-3.1.5.jar"
+    },
+    "e2b19ac5a3aa7864cc76939a4a6a3edc37c3feb6": {
+      "sha1": "e2b19ac5a3aa7864cc76939a4a6a3edc37c3feb6",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "1.0.2.RELEASE",
+      "fileName": "spring-cloud-function-context-1.0.2.RELEASE.jar"
+    },
+    "aa491b65ad801901eb1ed9d4236652bbc2167ea1": {
+      "sha1": "aa491b65ad801901eb1ed9d4236652bbc2167ea1",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "2.0.0.M1",
+      "fileName": "spring-cloud-function-context-2.0.0.M1.jar"
+    },
+    "09e8c33c7a674d122aa414a9580ed481f655dd83": {
+      "sha1": "09e8c33c7a674d122aa414a9580ed481f655dd83",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.0.0.RC1",
+      "fileName": "spring-cloud-function-context-3.0.0.RC1.jar"
+    },
+    "22d4006fc262008586eafdca78b677bbb0a4d68b": {
+      "sha1": "22d4006fc262008586eafdca78b677bbb0a4d68b",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.0.13.RELEASE",
+      "fileName": "spring-cloud-function-context-3.0.13.RELEASE.jar"
+    },
+    "9644dd2694be5c77073c3d57b74879ee2527a242": {
+      "sha1": "9644dd2694be5c77073c3d57b74879ee2527a242",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.1.2",
+      "fileName": "spring-cloud-function-context-3.1.2.jar"
+    },
+    "ba3442f198820fff7d40d0df5fcd5836ddf67e11": {
+      "sha1": "ba3442f198820fff7d40d0df5fcd5836ddf67e11",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.0.8.RELEASE",
+      "fileName": "spring-cloud-function-context-3.0.8.RELEASE.jar"
+    },
+    "8d737e84556db92117e6815d6fbf9086871662da": {
+      "sha1": "8d737e84556db92117e6815d6fbf9086871662da",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.1.0",
+      "fileName": "spring-cloud-function-context-3.1.0.jar"
+    },
+    "04272ecd20e97ca9c2bba21153ad98a9a528c2a3": {
+      "sha1": "04272ecd20e97ca9c2bba21153ad98a9a528c2a3",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.0.5.RELEASE",
+      "fileName": "spring-cloud-function-context-3.0.5.RELEASE.jar"
+    },
+    "364c6d4dafefc2d22ae6ad0729cf4be9353400ca": {
+      "sha1": "364c6d4dafefc2d22ae6ad0729cf4be9353400ca",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.0.0.M2",
+      "fileName": "spring-cloud-function-context-3.0.0.M2.jar"
+    },
+    "d658daba874340456d515252f034dfd518708bc3": {
+      "sha1": "d658daba874340456d515252f034dfd518708bc3",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "2.1.0.M1",
+      "fileName": "spring-cloud-function-context-2.1.0.M1.jar"
+    },
+    "f35cb377396acd7e0a0e4c1cd9d481cfe6f25d89": {
+      "sha1": "f35cb377396acd7e0a0e4c1cd9d481cfe6f25d89",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "2.1.0.RELEASE",
+      "fileName": "spring-cloud-function-context-2.1.0.RELEASE.jar"
+    },
+    "f2918b91c01ffbb781d48472e72f6a64eae5b9f9": {
+      "sha1": "f2918b91c01ffbb781d48472e72f6a64eae5b9f9",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.0.0.RC2",
+      "fileName": "spring-cloud-function-context-3.0.0.RC2.jar"
+    },
+    "63647088ba0b4ea76c56cccae90955d9f3c443fc": {
+      "sha1": "63647088ba0b4ea76c56cccae90955d9f3c443fc",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.0.4.RELEASE",
+      "fileName": "spring-cloud-function-context-3.0.4.RELEASE.jar"
+    },
+    "f530184b23dc51413ff447caebb2c13b93cbbd30": {
+      "sha1": "f530184b23dc51413ff447caebb2c13b93cbbd30",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "2.0.0.RELEASE",
+      "fileName": "spring-cloud-function-context-2.0.0.RELEASE.jar"
+    },
+    "35de041abd45ce3c60542e393cb8391d9d5e1448": {
+      "sha1": "35de041abd45ce3c60542e393cb8391d9d5e1448",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.0.10.RELEASE",
+      "fileName": "spring-cloud-function-context-3.0.10.RELEASE.jar"
+    },
+    "6268efba528481669fc452607b6e4f63d20530ec": {
+      "sha1": "6268efba528481669fc452607b6e4f63d20530ec",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.1.1",
+      "fileName": "spring-cloud-function-context-3.1.1.jar"
+    },
+    "6c4eb6721434dadbb293614584b493fe2f2c250e": {
+      "sha1": "6c4eb6721434dadbb293614584b493fe2f2c250e",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "2.0.0.M2",
+      "fileName": "spring-cloud-function-context-2.0.0.M2.jar"
+    },
+    "a7cd847704feccb0e6174caf545a65f4674c47f6": {
+      "sha1": "a7cd847704feccb0e6174caf545a65f4674c47f6",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.0.3.RELEASE",
+      "fileName": "spring-cloud-function-context-3.0.3.RELEASE.jar"
+    },
+    "5def504cfe25d2814b228f167860610c03aae4c8": {
+      "sha1": "5def504cfe25d2814b228f167860610c03aae4c8",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.2.0",
+      "fileName": "spring-cloud-function-context-3.2.0.jar"
+    },
+    "f0d56787829c8b1d18d382d330d3003d04c5f567": {
+      "sha1": "f0d56787829c8b1d18d382d330d3003d04c5f567",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.1.3",
+      "fileName": "spring-cloud-function-context-3.1.3.jar"
+    },
+    "dd28ecabe00b1f09a8ed4e27756ddd3ea3ad6e98": {
+      "sha1": "dd28ecabe00b1f09a8ed4e27756ddd3ea3ad6e98",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.2.2",
+      "fileName": "spring-cloud-function-context-3.2.2.jar"
+    },
+    "df48dc654febb9fa1930a4f3525e827925ba4582": {
+      "sha1": "df48dc654febb9fa1930a4f3525e827925ba4582",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.1.4",
+      "fileName": "spring-cloud-function-context-3.1.4.jar"
+    },
+    "fc13e848d3716897880360dc7bb856ea6b624ca1": {
+      "sha1": "fc13e848d3716897880360dc7bb856ea6b624ca1",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "2.0.1.RELEASE",
+      "fileName": "spring-cloud-function-context-2.0.1.RELEASE.jar"
+    },
+    "9c417e5474a288d7ef4e695715034d86ab8974a8": {
+      "sha1": "9c417e5474a288d7ef4e695715034d86ab8974a8",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "2.1.1.RELEASE",
+      "fileName": "spring-cloud-function-context-2.1.1.RELEASE.jar"
+    },
+    "d4920a1e54c0704af67dbd6b9862f0d1c20c3305": {
+      "sha1": "d4920a1e54c0704af67dbd6b9862f0d1c20c3305",
+      "groupId": "org.springframework.cloud",
+      "artifactId": "spring-cloud-function-context",
+      "packageVersion": "3.0.7.RELEASE",
+      "fileName": "spring-cloud-function-context-3.0.7.RELEASE.jar"
+    }
+  },
+  "CVE-2022-22965": {
+    "f0d280928ab5b341aca9d86e7aa469c9e4c5c470": {
+      "sha1": "f0d280928ab5b341aca9d86e7aa469c9e4c5c470",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.0.0.M1",
+      "fileName": "spring-beans-4.0.0.M1.jar"
+    },
+    "ad15dfeb48d0127e424f1a3c0d15e4c81a5dc2b7": {
+      "sha1": "ad15dfeb48d0127e424f1a3c0d15e4c81a5dc2b7",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.1.9.RELEASE",
+      "fileName": "spring-beans-4.1.9.RELEASE.jar"
+    },
+    "7aa7d1192ad7acc4b5ced07d44a1cdc4e3a377b9": {
+      "sha1": "7aa7d1192ad7acc4b5ced07d44a1cdc4e3a377b9",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "3.2.8.RELEASE",
+      "fileName": "spring-beans-3.2.8.RELEASE.jar"
+    },
+    "795595a5a3411cbcd66353073354c57f8f7be2e0": {
+      "sha1": "795595a5a3411cbcd66353073354c57f8f7be2e0",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "3.2.14.RELEASE",
+      "fileName": "spring-beans-3.2.14.RELEASE.jar"
+    },
+    "1e9f9dfb8ee0d645da05dcb88d2e0138588d22e7": {
+      "sha1": "1e9f9dfb8ee0d645da05dcb88d2e0138588d22e7",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.1.8.RELEASE",
+      "fileName": "spring-beans-4.1.8.RELEASE.jar"
+    },
+    "f13f040eab17c5c885ed5ec8ef0ec4fc4c1db712": {
+      "sha1": "f13f040eab17c5c885ed5ec8ef0ec4fc4c1db712",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.2.0.RC3",
+      "fileName": "spring-beans-4.2.0.RC3.jar"
+    },
+    "d8be6f05d3d2adee55dc2f949ab02d9ee82e2220": {
+      "sha1": "d8be6f05d3d2adee55dc2f949ab02d9ee82e2220",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.0.2.RELEASE",
+      "fileName": "spring-beans-4.0.2.RELEASE.jar"
+    },
+    "bbac7d9b8583a0d54e14aa23715cd7fbeb5f5c47": {
+      "sha1": "bbac7d9b8583a0d54e14aa23715cd7fbeb5f5c47",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "3.2.13.RELEASE",
+      "fileName": "spring-beans-3.2.13.RELEASE.jar"
+    },
+    "bbe3f76d14e9471e339bd8afec07b6fc5c916cd4": {
+      "sha1": "bbe3f76d14e9471e339bd8afec07b6fc5c916cd4",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "3.2.2.RELEASE",
+      "fileName": "spring-beans-3.2.2.RELEASE.jar"
+    },
+    "4917f6ed94d7534f7f6dd67216cdff9443dd0a08": {
+      "sha1": "4917f6ed94d7534f7f6dd67216cdff9443dd0a08",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.2.8.RELEASE",
+      "fileName": "spring-beans-4.2.8.RELEASE.jar"
+    },
+    "b44916d83324181be533beb471203b65ed3e8887": {
+      "sha1": "b44916d83324181be533beb471203b65ed3e8887",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.0.4.RELEASE",
+      "fileName": "spring-beans-4.0.4.RELEASE.jar"
+    },
+    "39d7f765586816fbfeb622a185865291527eb5d5": {
+      "sha1": "39d7f765586816fbfeb622a185865291527eb5d5",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.0.8.RELEASE",
+      "fileName": "spring-beans-4.0.8.RELEASE.jar"
+    },
+    "6f5d51f73ecbf6ec9f13999f53d45af4371c6c8a": {
+      "sha1": "6f5d51f73ecbf6ec9f13999f53d45af4371c6c8a",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.1.3.RELEASE",
+      "fileName": "spring-beans-4.1.3.RELEASE.jar"
+    },
+    "b0447835df6d1f7a14c4d9ea02ca44d3b1d26f68": {
+      "sha1": "b0447835df6d1f7a14c4d9ea02ca44d3b1d26f68",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "3.2.17.RELEASE",
+      "fileName": "spring-beans-3.2.17.RELEASE.jar"
+    },
+    "0b4f08e061c28636c0d434a74554c958457602b3": {
+      "sha1": "0b4f08e061c28636c0d434a74554c958457602b3",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.1.4.RELEASE",
+      "fileName": "spring-beans-4.1.4.RELEASE.jar"
+    },
+    "8272d653e9f9a2a40148f259c8a9e9a5f1bff70b": {
+      "sha1": "8272d653e9f9a2a40148f259c8a9e9a5f1bff70b",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "3.2.16.RELEASE",
+      "fileName": "spring-beans-3.2.16.RELEASE.jar"
+    },
+    "ae8b65a7dbd0e74044c903f5b7078a09b1671266": {
+      "sha1": "ae8b65a7dbd0e74044c903f5b7078a09b1671266",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "3.2.1.RELEASE",
+      "fileName": "spring-beans-3.2.1.RELEASE.jar"
+    },
+    "4c0bb7e1a69d650145e8e08a3bcc03a8bc3c453e": {
+      "sha1": "4c0bb7e1a69d650145e8e08a3bcc03a8bc3c453e",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "3.2.18.RELEASE",
+      "fileName": "spring-beans-3.2.18.RELEASE.jar"
+    },
+    "3bf805d01f3e6d545dc67f1c7134463974f7a45b": {
+      "sha1": "3bf805d01f3e6d545dc67f1c7134463974f7a45b",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.0.0.M3",
+      "fileName": "spring-beans-4.0.0.M3.jar"
+    },
+    "3c7d7df651e172ec7ce99bd7e19c9c015ebb596a": {
+      "sha1": "3c7d7df651e172ec7ce99bd7e19c9c015ebb596a",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.1.0.RELEASE",
+      "fileName": "spring-beans-4.1.0.RELEASE.jar"
+    },
+    "ce2d409d470948f11fad41ffdf37dcff4d28cd7c": {
+      "sha1": "ce2d409d470948f11fad41ffdf37dcff4d28cd7c",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.1.6.RELEASE",
+      "fileName": "spring-beans-4.1.6.RELEASE.jar"
+    },
+    "e52148e9671e2918a2172c9cf56b77bede2042ce": {
+      "sha1": "e52148e9671e2918a2172c9cf56b77bede2042ce",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.1.7.RELEASE",
+      "fileName": "spring-beans-4.1.7.RELEASE.jar"
+    },
+    "fbdb89f2e36cde76b3fefd4471cc2e1ae8da7e58": {
+      "sha1": "fbdb89f2e36cde76b3fefd4471cc2e1ae8da7e58",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.0.0.RC2",
+      "fileName": "spring-beans-4.0.0.RC2.jar"
+    },
+    "3f3b38ccca8b5fa19a667e3c54c410ee404a39f0": {
+      "sha1": "3f3b38ccca8b5fa19a667e3c54c410ee404a39f0",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.2.0.RELEASE",
+      "fileName": "spring-beans-4.2.0.RELEASE.jar"
+    },
+    "ae0501728c0ee072e25cb5e11b63b883c0786b4b": {
+      "sha1": "ae0501728c0ee072e25cb5e11b63b883c0786b4b",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.2.7.RELEASE",
+      "fileName": "spring-beans-4.2.7.RELEASE.jar"
+    },
+    "d4a319fb4d949fb6313f45c929947b9b4e26283e": {
+      "sha1": "d4a319fb4d949fb6313f45c929947b9b4e26283e",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.2.6.RELEASE",
+      "fileName": "spring-beans-4.2.6.RELEASE.jar"
+    },
+    "587879b58acebeb5b0a63c01e822f9b44d9a4c77": {
+      "sha1": "587879b58acebeb5b0a63c01e822f9b44d9a4c77",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.0.6.RELEASE",
+      "fileName": "spring-beans-4.0.6.RELEASE.jar"
+    },
+    "262e05c6d10299eaa97f177451f372db19daae15": {
+      "sha1": "262e05c6d10299eaa97f177451f372db19daae15",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "3.2.5.RELEASE",
+      "fileName": "spring-beans-3.2.5.RELEASE.jar"
+    },
+    "a9d34230f1aa20a734c2dae8c7603ee24b949fda": {
+      "sha1": "a9d34230f1aa20a734c2dae8c7603ee24b949fda",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.0.0.M2",
+      "fileName": "spring-beans-4.0.0.M2.jar"
+    },
+    "605582e95fb62b43fb4a843babdcf739f3497e92": {
+      "sha1": "605582e95fb62b43fb4a843babdcf739f3497e92",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.0.1.RELEASE",
+      "fileName": "spring-beans-4.0.1.RELEASE.jar"
+    },
+    "f760312c99e7c172fd6611aeb7c2d18e586d4568": {
+      "sha1": "f760312c99e7c172fd6611aeb7c2d18e586d4568",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "3.2.11.RELEASE",
+      "fileName": "spring-beans-3.2.11.RELEASE.jar"
+    },
+    "89faefb9324a5a0a3ce43ec385f105e45fc2fbed": {
+      "sha1": "89faefb9324a5a0a3ce43ec385f105e45fc2fbed",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.1.2.RELEASE",
+      "fileName": "spring-beans-4.1.2.RELEASE.jar"
+    },
+    "c0384c9b077c02ce34234ba258a5161c30ac6895": {
+      "sha1": "c0384c9b077c02ce34234ba258a5161c30ac6895",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.2.2.RELEASE",
+      "fileName": "spring-beans-4.2.2.RELEASE.jar"
+    },
+    "31dcffd88a80b610ccd57ee9618301a1d883b53d": {
+      "sha1": "31dcffd88a80b610ccd57ee9618301a1d883b53d",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "3.2.9.RELEASE",
+      "fileName": "spring-beans-3.2.9.RELEASE.jar"
+    },
+    "a48eb92ef51e0aed7d23dcaa54225b8f24808db4": {
+      "sha1": "a48eb92ef51e0aed7d23dcaa54225b8f24808db4",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "3.2.3.RELEASE",
+      "fileName": "spring-beans-3.2.3.RELEASE.jar"
+    },
+    "a1d13f4c8909986e1d40b81cd3bc8ef19a856616": {
+      "sha1": "a1d13f4c8909986e1d40b81cd3bc8ef19a856616",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "3.2.12.RELEASE",
+      "fileName": "spring-beans-3.2.12.RELEASE.jar"
+    },
+    "97e97a04aede419679392176ec1df175d3e9a7a0": {
+      "sha1": "97e97a04aede419679392176ec1df175d3e9a7a0",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.0.0.RELEASE",
+      "fileName": "spring-beans-4.0.0.RELEASE.jar"
+    },
+    "c84179abb1139e35476e0ac4b3e1d6fe2ea19bf6": {
+      "sha1": "c84179abb1139e35476e0ac4b3e1d6fe2ea19bf6",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.2.0.RC2",
+      "fileName": "spring-beans-4.2.0.RC2.jar"
+    },
+    "47b156296a5e9875faa7421b6e25b419a530f52d": {
+      "sha1": "47b156296a5e9875faa7421b6e25b419a530f52d",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "3.2.4.RELEASE",
+      "fileName": "spring-beans-3.2.4.RELEASE.jar"
+    },
+    "6150c82cf0230f9a7acc29ff6a6d3718be892b35": {
+      "sha1": "6150c82cf0230f9a7acc29ff6a6d3718be892b35",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "3.2.6.RELEASE",
+      "fileName": "spring-beans-3.2.6.RELEASE.jar"
+    },
+    "41eabd53fd4ba5ba2b2d8af6c256a3741f65c2f3": {
+      "sha1": "41eabd53fd4ba5ba2b2d8af6c256a3741f65c2f3",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.0.3.RELEASE",
+      "fileName": "spring-beans-4.0.3.RELEASE.jar"
+    },
+    "fdd041f086972cc16f9b09ee420a98604cd0bc07": {
+      "sha1": "fdd041f086972cc16f9b09ee420a98604cd0bc07",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.0.7.RELEASE",
+      "fileName": "spring-beans-4.0.7.RELEASE.jar"
+    },
+    "2b9b6ebb4271c61e307f4eae8e00ccec23891440": {
+      "sha1": "2b9b6ebb4271c61e307f4eae8e00ccec23891440",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.2.9.RELEASE",
+      "fileName": "spring-beans-4.2.9.RELEASE.jar"
+    },
+    "249921ead97248410ac04f854075f0a1c1a567e4": {
+      "sha1": "249921ead97248410ac04f854075f0a1c1a567e4",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.2.3.RELEASE",
+      "fileName": "spring-beans-4.2.3.RELEASE.jar"
+    },
+    "6d39786b9f7b2a79897a0a83495f30002d9f8de3": {
+      "sha1": "6d39786b9f7b2a79897a0a83495f30002d9f8de3",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.2.1.RELEASE",
+      "fileName": "spring-beans-4.2.1.RELEASE.jar"
+    },
+    "3ea9a26437f47615a799689a4b4b67d4109845d9": {
+      "sha1": "3ea9a26437f47615a799689a4b4b67d4109845d9",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.1.0.RC1",
+      "fileName": "spring-beans-4.1.0.RC1.jar"
+    },
+    "5f82fae5c6359ff883e5e06c2c56169286b7e137": {
+      "sha1": "5f82fae5c6359ff883e5e06c2c56169286b7e137",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.1.5.RELEASE",
+      "fileName": "spring-beans-4.1.5.RELEASE.jar"
+    },
+    "2fdbd5a2c139528d5c31f409ff2a0a5dd29ecd92": {
+      "sha1": "2fdbd5a2c139528d5c31f409ff2a0a5dd29ecd92",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.2.0.RC1",
+      "fileName": "spring-beans-4.2.0.RC1.jar"
+    },
+    "d8239be9e4c0e162c6b8e3f8feabd7937376a1de": {
+      "sha1": "d8239be9e4c0e162c6b8e3f8feabd7937376a1de",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "3.2.10.RELEASE",
+      "fileName": "spring-beans-3.2.10.RELEASE.jar"
+    },
+    "a44061faf47da974376bbfa6e84e316046d45c8c": {
+      "sha1": "a44061faf47da974376bbfa6e84e316046d45c8c",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.1.1.RELEASE",
+      "fileName": "spring-beans-4.1.1.RELEASE.jar"
+    },
+    "f3be38ffccfae4e713a29fe8c2311f94701dd644": {
+      "sha1": "f3be38ffccfae4e713a29fe8c2311f94701dd644",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.1.0.RC2",
+      "fileName": "spring-beans-4.1.0.RC2.jar"
+    },
+    "fa992ae40f6fc47117282164e0433b71da385e94": {
+      "sha1": "fa992ae40f6fc47117282164e0433b71da385e94",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.2.5.RELEASE",
+      "fileName": "spring-beans-4.2.5.RELEASE.jar"
+    },
+    "af6c0171437d42050ee809044dda0bfdd3f1ef3f": {
+      "sha1": "af6c0171437d42050ee809044dda0bfdd3f1ef3f",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "3.2.15.RELEASE",
+      "fileName": "spring-beans-3.2.15.RELEASE.jar"
+    },
+    "cdb6539cbf9435e58f99a599a777d6843eafeb2a": {
+      "sha1": "cdb6539cbf9435e58f99a599a777d6843eafeb2a",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "3.2.7.RELEASE",
+      "fileName": "spring-beans-3.2.7.RELEASE.jar"
+    },
+    "dc8e0874b53435f3e277d9da5aebd8b93cc7cf64": {
+      "sha1": "dc8e0874b53435f3e277d9da5aebd8b93cc7cf64",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.2.4.RELEASE",
+      "fileName": "spring-beans-4.2.4.RELEASE.jar"
+    },
+    "70459b8d062753f8ce2441bcbb121b21c412d939": {
+      "sha1": "70459b8d062753f8ce2441bcbb121b21c412d939",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "3.2.0.RELEASE",
+      "fileName": "spring-beans-3.2.0.RELEASE.jar"
+    },
+    "bab1f389bfd168ac6a116d0a0efb256864f7c857": {
+      "sha1": "bab1f389bfd168ac6a116d0a0efb256864f7c857",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.0.0.RC1",
+      "fileName": "spring-beans-4.0.0.RC1.jar"
+    },
+    "11e00022f109653ee0dbe16b59c26e19bd90fa08": {
+      "sha1": "11e00022f109653ee0dbe16b59c26e19bd90fa08",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.0.5.RELEASE",
+      "fileName": "spring-beans-4.0.5.RELEASE.jar"
+    },
+    "295ecbf61e2313b4472947a1b3084022ba09e524": {
+      "sha1": "295ecbf61e2313b4472947a1b3084022ba09e524",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.0.9.RELEASE",
+      "fileName": "spring-beans-4.0.9.RELEASE.jar"
+    },
+    "886e17ef19f0078057e30382eb470e034a3e16e7": {
+      "sha1": "886e17ef19f0078057e30382eb470e034a3e16e7",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.0.RC2",
+      "fileName": "spring-beans-5.0.0.RC2.jar"
+    },
+    "6dd11f183d252605e5dae2552cd918b758390139": {
+      "sha1": "6dd11f183d252605e5dae2552cd918b758390139",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.5.RELEASE",
+      "fileName": "spring-beans-5.2.5.RELEASE.jar"
+    },
+    "7604a458b0d8a47cdb113cf874c21c9750b53188": {
+      "sha1": "7604a458b0d8a47cdb113cf874c21c9750b53188",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.3.5",
+      "fileName": "spring-beans-5.3.5.jar"
+    },
+    "b0f2d4c9b7cb3d94140df878635880302b67c403": {
+      "sha1": "b0f2d4c9b7cb3d94140df878635880302b67c403",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.1.RELEASE",
+      "fileName": "spring-beans-5.1.1.RELEASE.jar"
+    },
+    "9e87f48f65a33a017f2dd027911947a28be29f93": {
+      "sha1": "9e87f48f65a33a017f2dd027911947a28be29f93",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.2.RELEASE",
+      "fileName": "spring-beans-4.3.2.RELEASE.jar"
+    },
+    "522adf0f0973188ce5b4e17fd214cceb5c1904fa": {
+      "sha1": "522adf0f0973188ce5b4e17fd214cceb5c1904fa",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.24.RELEASE",
+      "fileName": "spring-beans-4.3.24.RELEASE.jar"
+    },
+    "81e4d9cc2e8fac88ab4eb7325c4521bd07c6389c": {
+      "sha1": "81e4d9cc2e8fac88ab4eb7325c4521bd07c6389c",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.2.RELEASE",
+      "fileName": "spring-beans-5.2.2.RELEASE.jar"
+    },
+    "7c8ce5f1f712b23233b5c126f8dd222c94431065": {
+      "sha1": "7c8ce5f1f712b23233b5c126f8dd222c94431065",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.16.RELEASE",
+      "fileName": "spring-beans-5.2.16.RELEASE.jar"
+    },
+    "65f56fdab1bb90ad059e314d2f2f4cf76f9bdbde": {
+      "sha1": "65f56fdab1bb90ad059e314d2f2f4cf76f9bdbde",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.9.RELEASE",
+      "fileName": "spring-beans-5.0.9.RELEASE.jar"
+    },
+    "7a8c3d48d4c33621e64d1399721d8e067450fcbd": {
+      "sha1": "7a8c3d48d4c33621e64d1399721d8e067450fcbd",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.4.RELEASE",
+      "fileName": "spring-beans-5.0.4.RELEASE.jar"
+    },
+    "0949554d84e4abcb6f890c15ae4b11c5c7a299fa": {
+      "sha1": "0949554d84e4abcb6f890c15ae4b11c5c7a299fa",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.14.RELEASE",
+      "fileName": "spring-beans-5.0.14.RELEASE.jar"
+    },
+    "b910a97a7aceb39bbdaf560ea102c574200cdd78": {
+      "sha1": "b910a97a7aceb39bbdaf560ea102c574200cdd78",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.11.RELEASE",
+      "fileName": "spring-beans-5.1.11.RELEASE.jar"
+    },
+    "985983cc69e42defefef099c3cfdf24e81b28b6c": {
+      "sha1": "985983cc69e42defefef099c3cfdf24e81b28b6c",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.12.RELEASE",
+      "fileName": "spring-beans-5.0.12.RELEASE.jar"
+    },
+    "c4b5ca2fc4c60fd08ef14bcf50f7bc1839045e1a": {
+      "sha1": "c4b5ca2fc4c60fd08ef14bcf50f7bc1839045e1a",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.17.RELEASE",
+      "fileName": "spring-beans-5.0.17.RELEASE.jar"
+    },
+    "855f38fc8b85901681495ac6c6379051ee688cd5": {
+      "sha1": "855f38fc8b85901681495ac6c6379051ee688cd5",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.3.3",
+      "fileName": "spring-beans-5.3.3.jar"
+    },
+    "b20c22c16270e758441bb7f3ce6707c9034083bb": {
+      "sha1": "b20c22c16270e758441bb7f3ce6707c9034083bb",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.13.RELEASE",
+      "fileName": "spring-beans-5.2.13.RELEASE.jar"
+    },
+    "1ff16eb107dd0411deaffa236467efed44d65c60": {
+      "sha1": "1ff16eb107dd0411deaffa236467efed44d65c60",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.3.10",
+      "fileName": "spring-beans-5.3.10.jar"
+    },
+    "2a0cb663069001e0b210d509f7b1904888557e63": {
+      "sha1": "2a0cb663069001e0b210d509f7b1904888557e63",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.16.RELEASE",
+      "fileName": "spring-beans-4.3.16.RELEASE.jar"
+    },
+    "3d9c415cb47c96a81b1267665f513e4676af53b4": {
+      "sha1": "3d9c415cb47c96a81b1267665f513e4676af53b4",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.3.17",
+      "fileName": "spring-beans-5.3.17.jar"
+    },
+    "2af35861330df82dda7a502b32b7ec9ce255b701": {
+      "sha1": "2af35861330df82dda7a502b32b7ec9ce255b701",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.0.RC2",
+      "fileName": "spring-beans-5.1.0.RC2.jar"
+    },
+    "8e446175b4c8f9bf42abfa11e8194cb729171675": {
+      "sha1": "8e446175b4c8f9bf42abfa11e8194cb729171675",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.3.RELEASE",
+      "fileName": "spring-beans-4.3.3.RELEASE.jar"
+    },
+    "3cfd1e0bb13a1947305eae9bf03c19e528e11a8b": {
+      "sha1": "3cfd1e0bb13a1947305eae9bf03c19e528e11a8b",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.19.RELEASE",
+      "fileName": "spring-beans-5.2.19.RELEASE.jar"
+    },
+    "6f8ce46b6f446b8875f0b3160b6b1978973d4d0b": {
+      "sha1": "6f8ce46b6f446b8875f0b3160b6b1978973d4d0b",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.17.RELEASE",
+      "fileName": "spring-beans-4.3.17.RELEASE.jar"
+    },
+    "9d486329560a0cfc0ccdd71877eb59b945032bb1": {
+      "sha1": "9d486329560a0cfc0ccdd71877eb59b945032bb1",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.11.RELEASE",
+      "fileName": "spring-beans-5.0.11.RELEASE.jar"
+    },
+    "cb02781a58642d0b8ce1e0754d9eb9b1f1b7279f": {
+      "sha1": "cb02781a58642d0b8ce1e0754d9eb9b1f1b7279f",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.0.RC3",
+      "fileName": "spring-beans-5.1.0.RC3.jar"
+    },
+    "bd01e44fd597fd8e14fb4ff2bc11362305b3a0b8": {
+      "sha1": "bd01e44fd597fd8e14fb4ff2bc11362305b3a0b8",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.3.0",
+      "fileName": "spring-beans-5.3.0.jar"
+    },
+    "5fc965d3e7f5515099244857a8ae9e2a208c169b": {
+      "sha1": "5fc965d3e7f5515099244857a8ae9e2a208c169b",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.8.RELEASE",
+      "fileName": "spring-beans-5.0.8.RELEASE.jar"
+    },
+    "ac6c5ea0ba82f555405f74104cf378f8071c6d25": {
+      "sha1": "ac6c5ea0ba82f555405f74104cf378f8071c6d25",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.3.4",
+      "fileName": "spring-beans-5.3.4.jar"
+    },
+    "60c9cce6f285f583399e498a995e0fdcf7e9ef28": {
+      "sha1": "60c9cce6f285f583399e498a995e0fdcf7e9ef28",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.28.RELEASE",
+      "fileName": "spring-beans-4.3.28.RELEASE.jar"
+    },
+    "eb3e70c22f71df6428e8b347d203d7d7be4df750": {
+      "sha1": "eb3e70c22f71df6428e8b347d203d7d7be4df750",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.0.M5",
+      "fileName": "spring-beans-5.0.0.M5.jar"
+    },
+    "c1196cb3e56da83e3c3a02ef323699f4b05feedc": {
+      "sha1": "c1196cb3e56da83e3c3a02ef323699f4b05feedc",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.7.RELEASE",
+      "fileName": "spring-beans-5.0.7.RELEASE.jar"
+    },
+    "a4bb5ffad5564e4a0e25955e3a40b1c6158385b2": {
+      "sha1": "a4bb5ffad5564e4a0e25955e3a40b1c6158385b2",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.3.1",
+      "fileName": "spring-beans-5.3.1.jar"
+    },
+    "734b5d1429bf2d36687038f5d9e079db86aa31b4": {
+      "sha1": "734b5d1429bf2d36687038f5d9e079db86aa31b4",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.15.RELEASE",
+      "fileName": "spring-beans-5.0.15.RELEASE.jar"
+    },
+    "5d513701a79c92f0549574f5170a05c4af7c893d": {
+      "sha1": "5d513701a79c92f0549574f5170a05c4af7c893d",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.2.RELEASE",
+      "fileName": "spring-beans-5.1.2.RELEASE.jar"
+    },
+    "289d8047f7cc524d60ca0c4cc6fedb8cb003e02d": {
+      "sha1": "289d8047f7cc524d60ca0c4cc6fedb8cb003e02d",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.3.2",
+      "fileName": "spring-beans-5.3.2.jar"
+    },
+    "df90e4006dedd9259186fc329e05ebb7074b3d33": {
+      "sha1": "df90e4006dedd9259186fc329e05ebb7074b3d33",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.19.RELEASE",
+      "fileName": "spring-beans-5.1.19.RELEASE.jar"
+    },
+    "99cc944fb3454410b47fc98d4b148a6205bfe8f6": {
+      "sha1": "99cc944fb3454410b47fc98d4b148a6205bfe8f6",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.3.6",
+      "fileName": "spring-beans-5.3.6.jar"
+    },
+    "fd6d361c817081ef9d2101e912b2cd9825c9f02a": {
+      "sha1": "fd6d361c817081ef9d2101e912b2cd9825c9f02a",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.30.RELEASE",
+      "fileName": "spring-beans-4.3.30.RELEASE.jar"
+    },
+    "5667beb711927d73ff89e487411b450c2fa4d42a": {
+      "sha1": "5667beb711927d73ff89e487411b450c2fa4d42a",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.1.RELEASE",
+      "fileName": "spring-beans-5.0.1.RELEASE.jar"
+    },
+    "8613a7077722f1d97f8cb3fea4b0b40bfadf4496": {
+      "sha1": "8613a7077722f1d97f8cb3fea4b0b40bfadf4496",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.13.RELEASE",
+      "fileName": "spring-beans-4.3.13.RELEASE.jar"
+    },
+    "984445863c0bbdaaf860615762d998b471a6bf92": {
+      "sha1": "984445863c0bbdaaf860615762d998b471a6bf92",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.5.RELEASE",
+      "fileName": "spring-beans-5.0.5.RELEASE.jar"
+    },
+    "536bb74d60a86882c58bd6f63a82e5760261c37f": {
+      "sha1": "536bb74d60a86882c58bd6f63a82e5760261c37f",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.26.RELEASE",
+      "fileName": "spring-beans-4.3.26.RELEASE.jar"
+    },
+    "e35fa81d0142ef7c1247a7dee8b1ef2dd78c6322": {
+      "sha1": "e35fa81d0142ef7c1247a7dee8b1ef2dd78c6322",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.8.RELEASE",
+      "fileName": "spring-beans-5.1.8.RELEASE.jar"
+    },
+    "79402ff116f0606a00759c5ca15d160bf585e9b3": {
+      "sha1": "79402ff116f0606a00759c5ca15d160bf585e9b3",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.0.RC4",
+      "fileName": "spring-beans-5.0.0.RC4.jar"
+    },
+    "e325c94d71a0d765a7dab7e898ca167803ae43ed": {
+      "sha1": "e325c94d71a0d765a7dab7e898ca167803ae43ed",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.25.RELEASE",
+      "fileName": "spring-beans-4.3.25.RELEASE.jar"
+    },
+    "24cc27af89edc1581a57bb15bc160d2353f40a0e": {
+      "sha1": "24cc27af89edc1581a57bb15bc160d2353f40a0e",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.3.14",
+      "fileName": "spring-beans-5.3.14.jar"
+    },
+    "2de9f59f3202965438f3a02057d6ad8274636044": {
+      "sha1": "2de9f59f3202965438f3a02057d6ad8274636044",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.7.RELEASE",
+      "fileName": "spring-beans-4.3.7.RELEASE.jar"
+    },
+    "d3c571e7128fec6947cb93bd539fe07fd9084a7b": {
+      "sha1": "d3c571e7128fec6947cb93bd539fe07fd9084a7b",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.12.RELEASE",
+      "fileName": "spring-beans-5.2.12.RELEASE.jar"
+    },
+    "e653a9892589fa757f8454af9ee9e82acf8e250e": {
+      "sha1": "e653a9892589fa757f8454af9ee9e82acf8e250e",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.12.RELEASE",
+      "fileName": "spring-beans-5.1.12.RELEASE.jar"
+    },
+    "48600db2cb1abc0f7ef2b073f0c1abd78a83bcfc": {
+      "sha1": "48600db2cb1abc0f7ef2b073f0c1abd78a83bcfc",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.3.9",
+      "fileName": "spring-beans-5.3.9.jar"
+    },
+    "a88e2ccfe8b131bcff2e643b90d52f6d928e7369": {
+      "sha1": "a88e2ccfe8b131bcff2e643b90d52f6d928e7369",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.3.15",
+      "fileName": "spring-beans-5.3.15.jar"
+    },
+    "4fbf4327d6c7f81c821f2d56e8695d394c7b930a": {
+      "sha1": "4fbf4327d6c7f81c821f2d56e8695d394c7b930a",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.4.RELEASE",
+      "fileName": "spring-beans-4.3.4.RELEASE.jar"
+    },
+    "591cc35fd39292adae13f01aa13e978d0bb11936": {
+      "sha1": "591cc35fd39292adae13f01aa13e978d0bb11936",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.11.RELEASE",
+      "fileName": "spring-beans-4.3.11.RELEASE.jar"
+    },
+    "05a03b3983108d73978aec2fa3e681aedad6782c": {
+      "sha1": "05a03b3983108d73978aec2fa3e681aedad6782c",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.9.RELEASE",
+      "fileName": "spring-beans-5.1.9.RELEASE.jar"
+    },
+    "507c9391e0b786704929453e7fd3a74cfba46534": {
+      "sha1": "507c9391e0b786704929453e7fd3a74cfba46534",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.4.RELEASE",
+      "fileName": "spring-beans-5.1.4.RELEASE.jar"
+    },
+    "9bb21eb84ccf1f474c57a9af37b5500316943cd7": {
+      "sha1": "9bb21eb84ccf1f474c57a9af37b5500316943cd7",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.18.RELEASE",
+      "fileName": "spring-beans-5.1.18.RELEASE.jar"
+    },
+    "fc5b50a647f319f9ca6ab272177f6d8188bfdfe5": {
+      "sha1": "fc5b50a647f319f9ca6ab272177f6d8188bfdfe5",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.4.RELEASE",
+      "fileName": "spring-beans-5.2.4.RELEASE.jar"
+    },
+    "e12bbc3277da28e2e2608a187f83091dc6c300bf": {
+      "sha1": "e12bbc3277da28e2e2608a187f83091dc6c300bf",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.5.RELEASE",
+      "fileName": "spring-beans-4.3.5.RELEASE.jar"
+    },
+    "03d66fed1eebfcd119efcabc6218c813700a21ed": {
+      "sha1": "03d66fed1eebfcd119efcabc6218c813700a21ed",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.3.8",
+      "fileName": "spring-beans-5.3.8.jar"
+    },
+    "03ae97694618c59e6af695a15e54fabb7e319776": {
+      "sha1": "03ae97694618c59e6af695a15e54fabb7e319776",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.0.RELEASE",
+      "fileName": "spring-beans-5.2.0.RELEASE.jar"
+    },
+    "27570e1d493f636c910191004f822e756a9df871": {
+      "sha1": "27570e1d493f636c910191004f822e756a9df871",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.23.RELEASE",
+      "fileName": "spring-beans-4.3.23.RELEASE.jar"
+    },
+    "01e7300966cc805411cb7d5463fb2ac4d11caea8": {
+      "sha1": "01e7300966cc805411cb7d5463fb2ac4d11caea8",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.20.RELEASE",
+      "fileName": "spring-beans-5.0.20.RELEASE.jar"
+    },
+    "8b1eacd7aaa12f7d173a2f0836d28bd0c1b098fe": {
+      "sha1": "8b1eacd7aaa12f7d173a2f0836d28bd0c1b098fe",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.3.7",
+      "fileName": "spring-beans-5.3.7.jar"
+    },
+    "301ee07b390bc8b5691f4206411b49beb06f7ff2": {
+      "sha1": "301ee07b390bc8b5691f4206411b49beb06f7ff2",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.2.RELEASE",
+      "fileName": "spring-beans-5.0.2.RELEASE.jar"
+    },
+    "0250c8c641433dc06b1b44e4563fa08a2fbf8954": {
+      "sha1": "0250c8c641433dc06b1b44e4563fa08a2fbf8954",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.3.RELEASE",
+      "fileName": "spring-beans-5.2.3.RELEASE.jar"
+    },
+    "0398efa268223a8fdebec380dc14342f1d2ddd78": {
+      "sha1": "0398efa268223a8fdebec380dc14342f1d2ddd78",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.13.RELEASE",
+      "fileName": "spring-beans-5.1.13.RELEASE.jar"
+    },
+    "5369c16d61c3d9dc2c3fb203fe0b2a0d7dbc8347": {
+      "sha1": "5369c16d61c3d9dc2c3fb203fe0b2a0d7dbc8347",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.0.RC1",
+      "fileName": "spring-beans-5.2.0.RC1.jar"
+    },
+    "38da647f047779b176a0e2841900abca0196aefb": {
+      "sha1": "38da647f047779b176a0e2841900abca0196aefb",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.0.RELEASE",
+      "fileName": "spring-beans-4.3.0.RELEASE.jar"
+    },
+    "6aa17eabf08008f22e7824285663662e7c27e3f4": {
+      "sha1": "6aa17eabf08008f22e7824285663662e7c27e3f4",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.10.RELEASE",
+      "fileName": "spring-beans-5.1.10.RELEASE.jar"
+    },
+    "efa904f0d53b47f00df75e1753dacde6eba871dc": {
+      "sha1": "efa904f0d53b47f00df75e1753dacde6eba871dc",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.18.RELEASE",
+      "fileName": "spring-beans-5.2.18.RELEASE.jar"
+    },
+    "6f95f071cfe29a84661648e5445dcb054be0cfa7": {
+      "sha1": "6f95f071cfe29a84661648e5445dcb054be0cfa7",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.0.RELEASE",
+      "fileName": "spring-beans-5.0.0.RELEASE.jar"
+    },
+    "e9643898198abe38ecd3660abd217db2157444ed": {
+      "sha1": "e9643898198abe38ecd3660abd217db2157444ed",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.29.RELEASE",
+      "fileName": "spring-beans-4.3.29.RELEASE.jar"
+    },
+    "d05690257d8e8034b180db3893d5baf8250fb9d3": {
+      "sha1": "d05690257d8e8034b180db3893d5baf8250fb9d3",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.1.RELEASE",
+      "fileName": "spring-beans-5.2.1.RELEASE.jar"
+    },
+    "6736b4fd9b964f44b4303d43383617dfe4b4d97f": {
+      "sha1": "6736b4fd9b964f44b4303d43383617dfe4b4d97f",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.0.M1",
+      "fileName": "spring-beans-5.0.0.M1.jar"
+    },
+    "e5be7f20449e875f7029789b1bd7cf2f050db371": {
+      "sha1": "e5be7f20449e875f7029789b1bd7cf2f050db371",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.16.RELEASE",
+      "fileName": "spring-beans-5.0.16.RELEASE.jar"
+    },
+    "4bdfad34241497243bd5d6e434f3a48c822377e0": {
+      "sha1": "4bdfad34241497243bd5d6e434f3a48c822377e0",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.1.RELEASE",
+      "fileName": "spring-beans-4.3.1.RELEASE.jar"
+    },
+    "ad7c24e03614edd9b374d60c6cfd2fda0b3cc672": {
+      "sha1": "ad7c24e03614edd9b374d60c6cfd2fda0b3cc672",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.0.RC1",
+      "fileName": "spring-beans-5.1.0.RC1.jar"
+    },
+    "9d39133bb80e13d643bfefd731fe86cab3aa2bd7": {
+      "sha1": "9d39133bb80e13d643bfefd731fe86cab3aa2bd7",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.8.RELEASE",
+      "fileName": "spring-beans-4.3.8.RELEASE.jar"
+    },
+    "b996bdca37e04a9e875dd40db184df208a315356": {
+      "sha1": "b996bdca37e04a9e875dd40db184df208a315356",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.22.RELEASE",
+      "fileName": "spring-beans-4.3.22.RELEASE.jar"
+    },
+    "64092fa31a5578e4b809955850b6124faa02abca": {
+      "sha1": "64092fa31a5578e4b809955850b6124faa02abca",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.0.RC3",
+      "fileName": "spring-beans-5.0.0.RC3.jar"
+    },
+    "62d4c68028515d8e7489aff54be0b5ba5305ce30": {
+      "sha1": "62d4c68028515d8e7489aff54be0b5ba5305ce30",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.0.M2",
+      "fileName": "spring-beans-5.0.0.M2.jar"
+    },
+    "80e722ffa73a43459f639d36e25aa4e4a08d8d79": {
+      "sha1": "80e722ffa73a43459f639d36e25aa4e4a08d8d79",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.9.RELEASE",
+      "fileName": "spring-beans-5.2.9.RELEASE.jar"
+    },
+    "aa4101e8e5acd6d28f77d2d1a9694b5ab3813343": {
+      "sha1": "aa4101e8e5acd6d28f77d2d1a9694b5ab3813343",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.15.RELEASE",
+      "fileName": "spring-beans-5.1.15.RELEASE.jar"
+    },
+    "5bd5eb9e4dc86f985c4e6936e0463eee75e24781": {
+      "sha1": "5bd5eb9e4dc86f985c4e6936e0463eee75e24781",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.19.RELEASE",
+      "fileName": "spring-beans-4.3.19.RELEASE.jar"
+    },
+    "7372138d9f4f3393990472db6d1c07603d5bb5dc": {
+      "sha1": "7372138d9f4f3393990472db6d1c07603d5bb5dc",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.15.RELEASE",
+      "fileName": "spring-beans-5.2.15.RELEASE.jar"
+    },
+    "5dec932dfff847e476b18ef4e137222664b25c31": {
+      "sha1": "5dec932dfff847e476b18ef4e137222664b25c31",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.14.RELEASE",
+      "fileName": "spring-beans-5.2.14.RELEASE.jar"
+    },
+    "d609b83cd8a71650a70778cf8d02c9a05b9161fe": {
+      "sha1": "d609b83cd8a71650a70778cf8d02c9a05b9161fe",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.6.RELEASE",
+      "fileName": "spring-beans-5.0.6.RELEASE.jar"
+    },
+    "90d2f4bf7eced108de0b5bf617abb2b13a6206a3": {
+      "sha1": "90d2f4bf7eced108de0b5bf617abb2b13a6206a3",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.6.RELEASE",
+      "fileName": "spring-beans-5.1.6.RELEASE.jar"
+    },
+    "aaa161f53ddab6628832878644916481d2f2ef25": {
+      "sha1": "aaa161f53ddab6628832878644916481d2f2ef25",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.0.M3",
+      "fileName": "spring-beans-5.2.0.M3.jar"
+    },
+    "caaa1d489bce88d6aa01ddd255ad5046acf8f282": {
+      "sha1": "caaa1d489bce88d6aa01ddd255ad5046acf8f282",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.3.12",
+      "fileName": "spring-beans-5.3.12.jar"
+    },
+    "6e3e15abc92989708ef94ac6055dc5665b03e921": {
+      "sha1": "6e3e15abc92989708ef94ac6055dc5665b03e921",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.27.RELEASE",
+      "fileName": "spring-beans-4.3.27.RELEASE.jar"
+    },
+    "8de4fe847e95a87e25acfb7fe5f21c0eddbe94c7": {
+      "sha1": "8de4fe847e95a87e25acfb7fe5f21c0eddbe94c7",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.0.RELEASE",
+      "fileName": "spring-beans-5.1.0.RELEASE.jar"
+    },
+    "9a15a7c84bd12516574bcaf87ffa38c1e65e8a2b": {
+      "sha1": "9a15a7c84bd12516574bcaf87ffa38c1e65e8a2b",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.3.RELEASE",
+      "fileName": "spring-beans-5.1.3.RELEASE.jar"
+    },
+    "c0dec97d0ba121e14c7f8ad6fcff16b9278f56e6": {
+      "sha1": "c0dec97d0ba121e14c7f8ad6fcff16b9278f56e6",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.14.RELEASE",
+      "fileName": "spring-beans-5.1.14.RELEASE.jar"
+    },
+    "21e624ed83e69dcff5cc33f69a10c12bab86fc66": {
+      "sha1": "21e624ed83e69dcff5cc33f69a10c12bab86fc66",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.0.M1",
+      "fileName": "spring-beans-5.2.0.M1.jar"
+    },
+    "c4aa2bb803602ebc26a7ee47628f6af106e1bf55": {
+      "sha1": "c4aa2bb803602ebc26a7ee47628f6af106e1bf55",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.0.M2",
+      "fileName": "spring-beans-5.2.0.M2.jar"
+    },
+    "776c7c6e040f857b3402bcc96424e1e528737e6d": {
+      "sha1": "776c7c6e040f857b3402bcc96424e1e528737e6d",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.20.RELEASE",
+      "fileName": "spring-beans-4.3.20.RELEASE.jar"
+    },
+    "85f090e0969c8fef81e149bdbedc2fdfe082546d": {
+      "sha1": "85f090e0969c8fef81e149bdbedc2fdfe082546d",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.3.11",
+      "fileName": "spring-beans-5.3.11.jar"
+    },
+    "58b10c61f6bf2362909d884813c4049b657735f5": {
+      "sha1": "58b10c61f6bf2362909d884813c4049b657735f5",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.5.RELEASE",
+      "fileName": "spring-beans-5.1.5.RELEASE.jar"
+    },
+    "7ad7fb35991108681caee35955c45eda0a43b5fb": {
+      "sha1": "7ad7fb35991108681caee35955c45eda0a43b5fb",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.0.RC2",
+      "fileName": "spring-beans-5.2.0.RC2.jar"
+    },
+    "869e4d847051825c61ef850a3fe07f3b76f6d339": {
+      "sha1": "869e4d847051825c61ef850a3fe07f3b76f6d339",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.19.RELEASE",
+      "fileName": "spring-beans-5.0.19.RELEASE.jar"
+    },
+    "8d6f2526f935e8687888d220be2ffb23295efc0f": {
+      "sha1": "8d6f2526f935e8687888d220be2ffb23295efc0f",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.20.RELEASE",
+      "fileName": "spring-beans-5.1.20.RELEASE.jar"
+    },
+    "984bd92cfa2ab99ba30f2c0f268e7723d1ab14c2": {
+      "sha1": "984bd92cfa2ab99ba30f2c0f268e7723d1ab14c2",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.17.RELEASE",
+      "fileName": "spring-beans-5.2.17.RELEASE.jar"
+    },
+    "851bd101152f353c61d9bb04191079100bb53d27": {
+      "sha1": "851bd101152f353c61d9bb04191079100bb53d27",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.0.M4",
+      "fileName": "spring-beans-5.0.0.M4.jar"
+    },
+    "fe37bc424cfe7080f15c7bea15a8052134fc7cec": {
+      "sha1": "fe37bc424cfe7080f15c7bea15a8052134fc7cec",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.0.RC1",
+      "fileName": "spring-beans-5.0.0.RC1.jar"
+    },
+    "093e2697bdbace15cf784a6cf0ad00eb2650adb7": {
+      "sha1": "093e2697bdbace15cf784a6cf0ad00eb2650adb7",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.16.RELEASE",
+      "fileName": "spring-beans-5.1.16.RELEASE.jar"
+    },
+    "cb9832eb0a43abe4b04fe6de8eed0120aa62c5f5": {
+      "sha1": "cb9832eb0a43abe4b04fe6de8eed0120aa62c5f5",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.0.M3",
+      "fileName": "spring-beans-5.0.0.M3.jar"
+    },
+    "14cd651e4aa3514e75710c9450c7a0c89413e63f": {
+      "sha1": "14cd651e4aa3514e75710c9450c7a0c89413e63f",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.7.RELEASE",
+      "fileName": "spring-beans-5.1.7.RELEASE.jar"
+    },
+    "1585715ed598b76a23dac931c27aa039b189eafb": {
+      "sha1": "1585715ed598b76a23dac931c27aa039b189eafb",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.6.RELEASE",
+      "fileName": "spring-beans-4.3.6.RELEASE.jar"
+    },
+    "d1b4c338e52dac001a48e29a605bb8f73572ad84": {
+      "sha1": "d1b4c338e52dac001a48e29a605bb8f73572ad84",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.6.RELEASE",
+      "fileName": "spring-beans-5.2.6.RELEASE.jar"
+    },
+    "b189b059b054acd7ea3d07dc028800d471bb72b6": {
+      "sha1": "b189b059b054acd7ea3d07dc028800d471bb72b6",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.21.RELEASE",
+      "fileName": "spring-beans-4.3.21.RELEASE.jar"
+    },
+    "5ab03ccb4c8d7b0a00b96773742b2b02e8777b4c": {
+      "sha1": "5ab03ccb4c8d7b0a00b96773742b2b02e8777b4c",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.11.RELEASE",
+      "fileName": "spring-beans-5.2.11.RELEASE.jar"
+    },
+    "15decec5cea7a91423272daaae6f5d050c23cf3b": {
+      "sha1": "15decec5cea7a91423272daaae6f5d050c23cf3b",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.3.16",
+      "fileName": "spring-beans-5.3.16.jar"
+    },
+    "13880e7cd21df626736d6a4f5decd17b42cdeaca": {
+      "sha1": "13880e7cd21df626736d6a4f5decd17b42cdeaca",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.13.RELEASE",
+      "fileName": "spring-beans-5.0.13.RELEASE.jar"
+    },
+    "8ba0b5e3bb65bcee9e46c66007dd6fbb80f4bdf0": {
+      "sha1": "8ba0b5e3bb65bcee9e46c66007dd6fbb80f4bdf0",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.1.17.RELEASE",
+      "fileName": "spring-beans-5.1.17.RELEASE.jar"
+    },
+    "0547dd432d47d0f01d9ccbedc4b705f9f7c1240a": {
+      "sha1": "0547dd432d47d0f01d9ccbedc4b705f9f7c1240a",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.12.RELEASE",
+      "fileName": "spring-beans-4.3.12.RELEASE.jar"
+    },
+    "7bcd17a68dd64e9447d7bff2c42ba7417678596e": {
+      "sha1": "7bcd17a68dd64e9447d7bff2c42ba7417678596e",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.14.RELEASE",
+      "fileName": "spring-beans-4.3.14.RELEASE.jar"
+    },
+    "90efe9d7c52f5eadd285f72f2bcb42147d7502f3": {
+      "sha1": "90efe9d7c52f5eadd285f72f2bcb42147d7502f3",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.18.RELEASE",
+      "fileName": "spring-beans-5.0.18.RELEASE.jar"
+    },
+    "c65a623d51721f6037505ce6c11e5d19edfa1c3a": {
+      "sha1": "c65a623d51721f6037505ce6c11e5d19edfa1c3a",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.3.RELEASE",
+      "fileName": "spring-beans-5.0.3.RELEASE.jar"
+    },
+    "8ec7da928082a123c50d5d70cd4b46382db27e8b": {
+      "sha1": "8ec7da928082a123c50d5d70cd4b46382db27e8b",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.0.10.RELEASE",
+      "fileName": "spring-beans-5.0.10.RELEASE.jar"
+    },
+    "9d89b786f755f9b1da344f10f6f045f927679a72": {
+      "sha1": "9d89b786f755f9b1da344f10f6f045f927679a72",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.10.RELEASE",
+      "fileName": "spring-beans-4.3.10.RELEASE.jar"
+    },
+    "daa5abf3779c8cad1a2910e1ea08e4272489d8ae": {
+      "sha1": "daa5abf3779c8cad1a2910e1ea08e4272489d8ae",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.9.RELEASE",
+      "fileName": "spring-beans-4.3.9.RELEASE.jar"
+    },
+    "88d4eb1380940163b7cbfe1f991158f4a4cd7058": {
+      "sha1": "88d4eb1380940163b7cbfe1f991158f4a4cd7058",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.10.RELEASE",
+      "fileName": "spring-beans-5.2.10.RELEASE.jar"
+    },
+    "1d90c96b287253ec371260c35fbbea719c24bad6": {
+      "sha1": "1d90c96b287253ec371260c35fbbea719c24bad6",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.3.13",
+      "fileName": "spring-beans-5.3.13.jar"
+    },
+    "fcf735969a5b003c2b7973db6914bd275836fccd": {
+      "sha1": "fcf735969a5b003c2b7973db6914bd275836fccd",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.15.RELEASE",
+      "fileName": "spring-beans-4.3.15.RELEASE.jar"
+    },
+    "27460686b16b3ffee60bb3365cd56bba6ed860ff": {
+      "sha1": "27460686b16b3ffee60bb3365cd56bba6ed860ff",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "4.3.18.RELEASE",
+      "fileName": "spring-beans-4.3.18.RELEASE.jar"
+    },
+    "05465ab17688ed62254fdef411cf883fd5c3b77a": {
+      "sha1": "05465ab17688ed62254fdef411cf883fd5c3b77a",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.7.RELEASE",
+      "fileName": "spring-beans-5.2.7.RELEASE.jar"
+    },
+    "5cfafc2b0f821bda0b537449a6fdf634b0a666ff": {
+      "sha1": "5cfafc2b0f821bda0b537449a6fdf634b0a666ff",
+      "groupId": "org.springframework",
+      "artifactId": "spring-beans",
+      "packageVersion": "5.2.8.RELEASE",
+      "fileName": "spring-beans-5.2.8.RELEASE.jar"
+    },
+    "0008cc266dfd01cdfdc3f62fef6fd4f7b29ed3e0": {
+      "sha1": "0008cc266dfd01cdfdc3f62fef6fd4f7b29ed3e0",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.0.5.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.0.5.RELEASE_1.jar"
+    },
+    "f2e1c3f38515fe0c55247f0bd66815d1612a643d": {
+      "sha1": "f2e1c3f38515fe0c55247f0bd66815d1612a643d",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.0.2.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.0.2.RELEASE_1.jar"
+    },
+    "44a6004b957a285eb6c05b918eae7768004c68e5": {
+      "sha1": "44a6004b957a285eb6c05b918eae7768004c68e5",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "3.2.12.RELEASE_2",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-3.2.12.RELEASE_2.jar"
+    },
+    "7dad510f056aa8bb0fb295854a0dc259c7ebdb9b": {
+      "sha1": "7dad510f056aa8bb0fb295854a0dc259c7ebdb9b",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.3.5_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.3.5_1.jar"
+    },
+    "1d90cf718518a76988c8a4a5790d6ada220047d5": {
+      "sha1": "1d90cf718518a76988c8a4a5790d6ada220047d5",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.0.10.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.0.10.RELEASE_1.jar"
+    },
+    "d8091bb2c3d4e7b49aa7a781616fbe6cbf08f7c9": {
+      "sha1": "d8091bb2c3d4e7b49aa7a781616fbe6cbf08f7c9",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.1.14.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.1.14.RELEASE_1.jar"
+    },
+    "1dd7820c3a06d45f78b9f1d682cae1bbbcf4ca58": {
+      "sha1": "1dd7820c3a06d45f78b9f1d682cae1bbbcf4ca58",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.1.0.RELEASE_4",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.1.0.RELEASE_4.jar"
+    },
+    "21634cfca19bb87bd0c52b2e18817c0544732a81": {
+      "sha1": "21634cfca19bb87bd0c52b2e18817c0544732a81",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "3.2.18.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-3.2.18.RELEASE_1.jar"
+    },
+    "5ca592477241af5146e752432e2a2f01300e434c": {
+      "sha1": "5ca592477241af5146e752432e2a2f01300e434c",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.1.1.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.1.1.RELEASE_1.jar"
+    },
+    "644ce78b73f72a1e21eab78fbd0be8900a321693": {
+      "sha1": "644ce78b73f72a1e21eab78fbd0be8900a321693",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.2.3.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.2.3.RELEASE_1.jar"
+    },
+    "de30f0b094695bf4ea245931426cb858a1c7df74": {
+      "sha1": "de30f0b094695bf4ea245931426cb858a1c7df74",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.1.2.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.1.2.RELEASE_1.jar"
+    },
+    "51db6e434e91229a4d5733bfd05e5f6e3467f702": {
+      "sha1": "51db6e434e91229a4d5733bfd05e5f6e3467f702",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.3.6_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.3.6_1.jar"
+    },
+    "b4a0f14057a0a54a77c9613a344500782409dc66": {
+      "sha1": "b4a0f14057a0a54a77c9613a344500782409dc66",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.22.RELEASE_2",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.22.RELEASE_2.jar"
+    },
+    "80e51e8d4aec9553c2c8c07a242a4302c9b3f540": {
+      "sha1": "80e51e8d4aec9553c2c8c07a242a4302c9b3f540",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.0.1.RELEASE_3",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.0.1.RELEASE_3.jar"
+    },
+    "581e71b30169d279960dc7b89ca99d7014c9f354": {
+      "sha1": "581e71b30169d279960dc7b89ca99d7014c9f354",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.22.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.22.RELEASE_1.jar"
+    },
+    "ae41c4b1ab98e90412cff9427657a29ce23f45e9": {
+      "sha1": "ae41c4b1ab98e90412cff9427657a29ce23f45e9",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.1.1.RELEASE_2",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.1.1.RELEASE_2.jar"
+    },
+    "86c8a6e3c7bd563cccf9f13a84acb10b53c7553d": {
+      "sha1": "86c8a6e3c7bd563cccf9f13a84acb10b53c7553d",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.3.8_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.3.8_1.jar"
+    },
+    "307037decbc717f750e41ac656938c6187bcf1d1": {
+      "sha1": "307037decbc717f750e41ac656938c6187bcf1d1",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "3.2.13.RELEASE_2",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-3.2.13.RELEASE_2.jar"
+    },
+    "285172f33718791f21d2e70435b93e661baf2433": {
+      "sha1": "285172f33718791f21d2e70435b93e661baf2433",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.1.0.RELEASE_2",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.1.0.RELEASE_2.jar"
+    },
+    "4865c32680a1d90ae199ea3ae9fda26ea33630c9": {
+      "sha1": "4865c32680a1d90ae199ea3ae9fda26ea33630c9",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.0.2.RELEASE_4",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.0.2.RELEASE_4.jar"
+    },
+    "7ccae5556a82aa3cd7a5642f63aef2b9b2df6475": {
+      "sha1": "7ccae5556a82aa3cd7a5642f63aef2b9b2df6475",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.3.9_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.3.9_1.jar"
+    },
+    "9bee5d4e36ed39efc57b93a9a2f45e7ca9576fdb": {
+      "sha1": "9bee5d4e36ed39efc57b93a9a2f45e7ca9576fdb",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.20.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.20.RELEASE_1.jar"
+    },
+    "e530cb70ee7c5c85065a9d4814443c73cebd7ebf": {
+      "sha1": "e530cb70ee7c5c85065a9d4814443c73cebd7ebf",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.1.0.RELEASE_5",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.1.0.RELEASE_5.jar"
+    },
+    "140682099d2f04c92da1bd5944d46d6f49a2d03e": {
+      "sha1": "140682099d2f04c92da1bd5944d46d6f49a2d03e",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.3.4_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.3.4_1.jar"
+    },
+    "738e14119217817183c2b68b1b2e0202fb8ef181": {
+      "sha1": "738e14119217817183c2b68b1b2e0202fb8ef181",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.3.13_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.3.13_1.jar"
+    },
+    "cadafd332106201d5a05501f4c15292f84ca10e0": {
+      "sha1": "cadafd332106201d5a05501f4c15292f84ca10e0",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.2.7.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.2.7.RELEASE_1.jar"
+    },
+    "ff39f94dd216f043b786fb35d8eb63dd861c6cc3": {
+      "sha1": "ff39f94dd216f043b786fb35d8eb63dd861c6cc3",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "3.2.9.RELEASE_2",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-3.2.9.RELEASE_2.jar"
+    },
+    "295d84c245d5895e339c84e1ec6bbb7cdc816e6a": {
+      "sha1": "295d84c245d5895e339c84e1ec6bbb7cdc816e6a",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.0.6.RELEASE_3",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.0.6.RELEASE_3.jar"
+    },
+    "776b4e88168251b4c5c17a1f06c64eedf2073b6d": {
+      "sha1": "776b4e88168251b4c5c17a1f06c64eedf2073b6d",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.28.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.28.RELEASE_1.jar"
+    },
+    "0596257df05ec278610210db111ff9fea9e1a2e4": {
+      "sha1": "0596257df05ec278610210db111ff9fea9e1a2e4",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.1.3.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.1.3.RELEASE_1.jar"
+    },
+    "3d6ce54a3e7f1a37cf3103149b061a6516019918": {
+      "sha1": "3d6ce54a3e7f1a37cf3103149b061a6516019918",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.2.5.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.2.5.RELEASE_1.jar"
+    },
+    "3030708abbce6bf66952dc82ba7397e1f62ad37b": {
+      "sha1": "3030708abbce6bf66952dc82ba7397e1f62ad37b",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.2.5.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.2.5.RELEASE_1.jar"
+    },
+    "c4611c6542aad97c7f35a66ad4dcedf2d8f2d923": {
+      "sha1": "c4611c6542aad97c7f35a66ad4dcedf2d8f2d923",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.1.5.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.1.5.RELEASE_1.jar"
+    },
+    "18012db9aeb7f20c00e40f6f94ace7f007cbadbf": {
+      "sha1": "18012db9aeb7f20c00e40f6f94ace7f007cbadbf",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.3.7_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.3.7_1.jar"
+    },
+    "ced6314c9c1026847236f48f1311ffb8789143ef": {
+      "sha1": "ced6314c9c1026847236f48f1311ffb8789143ef",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.2.8.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.2.8.RELEASE_1.jar"
+    },
+    "cf776704ec2b033e9c232733ad9a8f4f86199c8e": {
+      "sha1": "cf776704ec2b033e9c232733ad9a8f4f86199c8e",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.0.3.RELEASE_4",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.0.3.RELEASE_4.jar"
+    },
+    "6bd92de5541a678154a73352472e6f522b4e6bb2": {
+      "sha1": "6bd92de5541a678154a73352472e6f522b4e6bb2",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.0.12.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.0.12.RELEASE_1.jar"
+    },
+    "6761769bcd454178752a76c2f504f06d5af9bbc9": {
+      "sha1": "6761769bcd454178752a76c2f504f06d5af9bbc9",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.1.9.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.1.9.RELEASE_1.jar"
+    },
+    "454a322de15dd39830ba7979997eb75a56f8cf3a": {
+      "sha1": "454a322de15dd39830ba7979997eb75a56f8cf3a",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.9.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.9.RELEASE_1.jar"
+    },
+    "ccd0a024750c80444d38faaab68a2299f3292f81": {
+      "sha1": "ccd0a024750c80444d38faaab68a2299f3292f81",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.2.4.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.2.4.RELEASE_1.jar"
+    },
+    "23fccfef8016079062bf09e7e746bc7e9f0463eb": {
+      "sha1": "23fccfef8016079062bf09e7e746bc7e9f0463eb",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.3.1_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.3.1_1.jar"
+    },
+    "8a95f444481afc2348bae42c450d260f38c7b63e": {
+      "sha1": "8a95f444481afc2348bae42c450d260f38c7b63e",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.29.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.29.RELEASE_1.jar"
+    },
+    "53b392d8d7662e8cd7e481c5bc8e7ed10b09ae86": {
+      "sha1": "53b392d8d7662e8cd7e481c5bc8e7ed10b09ae86",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.2.9.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.2.9.RELEASE_1.jar"
+    },
+    "ab8d672ed65a962737147141055ffc80eaa0949d": {
+      "sha1": "ab8d672ed65a962737147141055ffc80eaa0949d",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.2.12.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.2.12.RELEASE_1.jar"
+    },
+    "e3464a5674a3928920560be69267b626b62e6174": {
+      "sha1": "e3464a5674a3928920560be69267b626b62e6174",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.0.7.RELEASE_2",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.0.7.RELEASE_2.jar"
+    },
+    "6271ac0e3fab411151e0ee056be4be9a15683724": {
+      "sha1": "6271ac0e3fab411151e0ee056be4be9a15683724",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.1.18.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.1.18.RELEASE_1.jar"
+    },
+    "ab40aca083abb51d4d6bdcbf4b5fdcf3fc93a22d": {
+      "sha1": "ab40aca083abb51d4d6bdcbf4b5fdcf3fc93a22d",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.1.4.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.1.4.RELEASE_1.jar"
+    },
+    "8e1cb1a4dc92196cf682d59e213af8349d578a1d": {
+      "sha1": "8e1cb1a4dc92196cf682d59e213af8349d578a1d",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.1.1.RELEASE_3",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.1.1.RELEASE_3.jar"
+    },
+    "da8726237623a8602e9e66b15f4e9e7c2a2fe145": {
+      "sha1": "da8726237623a8602e9e66b15f4e9e7c2a2fe145",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.0.3.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.0.3.RELEASE_1.jar"
+    },
+    "2ee5a9ebf2a1f73c80352d2b787d1673399c9351": {
+      "sha1": "2ee5a9ebf2a1f73c80352d2b787d1673399c9351",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "3.2.10.RELEASE_2",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-3.2.10.RELEASE_2.jar"
+    },
+    "1c05a0deb7dd5b82785f08dc7bc733a959bfb15c": {
+      "sha1": "1c05a0deb7dd5b82785f08dc7bc733a959bfb15c",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.2.1.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.2.1.RELEASE_1.jar"
+    },
+    "64de35feac6e54885d2fca106b7f14f7f3e00923": {
+      "sha1": "64de35feac6e54885d2fca106b7f14f7f3e00923",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.3.15_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.3.15_1.jar"
+    },
+    "62fa100976806279f86e17998c0155788f4e0a45": {
+      "sha1": "62fa100976806279f86e17998c0155788f4e0a45",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.0.9.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.0.9.RELEASE_1.jar"
+    },
+    "637bdfe0794ff07168cc591db431ddc7c8ecb2a4": {
+      "sha1": "637bdfe0794ff07168cc591db431ddc7c8ecb2a4",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.21.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.21.RELEASE_1.jar"
+    },
+    "1d9cc5531e2030046c2a8d42711686231938057a": {
+      "sha1": "1d9cc5531e2030046c2a8d42711686231938057a",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.3.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.3.RELEASE_1.jar"
+    },
+    "b93df83b2ca8da95f3619eed5ef55ccb6d255f2e": {
+      "sha1": "b93df83b2ca8da95f3619eed5ef55ccb6d255f2e",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.0.7.RELEASE_3",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.0.7.RELEASE_3.jar"
+    },
+    "aa9df2767e9c729291fe60c5edd31d783fec70fe": {
+      "sha1": "aa9df2767e9c729291fe60c5edd31d783fec70fe",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.0.0.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.0.0.RELEASE_1.jar"
+    },
+    "17b468754d5f946c111a7c7fe0ac17453cb53e09": {
+      "sha1": "17b468754d5f946c111a7c7fe0ac17453cb53e09",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.1.4.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.1.4.RELEASE_1.jar"
+    },
+    "0259ffcea423dbcfa7a9b27c6ed51b07747767e9": {
+      "sha1": "0259ffcea423dbcfa7a9b27c6ed51b07747767e9",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.2.2.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.2.2.RELEASE_1.jar"
+    },
+    "4080a06bdbe952e3cb65fd0c3b8cacbda63e60f3": {
+      "sha1": "4080a06bdbe952e3cb65fd0c3b8cacbda63e60f3",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.0.1.RELEASE_4",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.0.1.RELEASE_4.jar"
+    },
+    "fb5671f678c1ac8fc5b0aee59373b05343ba4269": {
+      "sha1": "fb5671f678c1ac8fc5b0aee59373b05343ba4269",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.3.12_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.3.12_1.jar"
+    },
+    "011785993b8958b66a0a810f77e4e7b3f2ef5f1f": {
+      "sha1": "011785993b8958b66a0a810f77e4e7b3f2ef5f1f",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.2.0.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.2.0.RELEASE_1.jar"
+    },
+    "09a7e4f741ac24d184a5dfeee5271626b00b001f": {
+      "sha1": "09a7e4f741ac24d184a5dfeee5271626b00b001f",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.24.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.24.RELEASE_1.jar"
+    },
+    "33a4fd39a9c3b160c8e667ec3cb00365256589f6": {
+      "sha1": "33a4fd39a9c3b160c8e667ec3cb00365256589f6",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.3.3_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.3.3_1.jar"
+    },
+    "beb1d187cc830ed3c6b170b999fc49ff760693a5": {
+      "sha1": "beb1d187cc830ed3c6b170b999fc49ff760693a5",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.0.14.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.0.14.RELEASE_1.jar"
+    },
+    "2d413f72721a66ccfcd2f34166bfbcea9099709d": {
+      "sha1": "2d413f72721a66ccfcd2f34166bfbcea9099709d",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.30.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.30.RELEASE_1.jar"
+    },
+    "6e11394feb525bed2bfce84deee161c03de5d48e": {
+      "sha1": "6e11394feb525bed2bfce84deee161c03de5d48e",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.2.4.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.2.4.RELEASE_1.jar"
+    },
+    "750eb213fbe75e15845f011697602eab5aa330b6": {
+      "sha1": "750eb213fbe75e15845f011697602eab5aa330b6",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.0.7.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.0.7.RELEASE_1.jar"
+    },
+    "11559e12b115d85e54f03c87b6798f8f0c4b0fa1": {
+      "sha1": "11559e12b115d85e54f03c87b6798f8f0c4b0fa1",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.3.0_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.3.0_1.jar"
+    },
+    "32c33c9f3c08c11a77157d3d17db0e4fb3f60548": {
+      "sha1": "32c33c9f3c08c11a77157d3d17db0e4fb3f60548",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.1.6.RELEASE_2",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.1.6.RELEASE_2.jar"
+    },
+    "a4506a4ca3ee7f4af83a40e267661bf3813048eb": {
+      "sha1": "a4506a4ca3ee7f4af83a40e267661bf3813048eb",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "3.2.8.RELEASE_3",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-3.2.8.RELEASE_3.jar"
+    },
+    "3332fd69363e9de0d25d9d70bfa17f29f072ef32": {
+      "sha1": "3332fd69363e9de0d25d9d70bfa17f29f072ef32",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.2.0.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.2.0.RELEASE_1.jar"
+    },
+    "2049a710a28872cfc4bfb0d8cdfc2f0b86a40b40": {
+      "sha1": "2049a710a28872cfc4bfb0d8cdfc2f0b86a40b40",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "3.2.12.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-3.2.12.RELEASE_1.jar"
+    },
+    "ff022fbf8921d3a443c6e42a410c24d28a068488": {
+      "sha1": "ff022fbf8921d3a443c6e42a410c24d28a068488",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.2.9.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.2.9.RELEASE_1.jar"
+    },
+    "9389a55045898dd8d62b8751af2d42a033efe557": {
+      "sha1": "9389a55045898dd8d62b8751af2d42a033efe557",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.1.20.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.1.20.RELEASE_1.jar"
+    },
+    "7fa7321015669c583dd344e568e2734c58257c11": {
+      "sha1": "7fa7321015669c583dd344e568e2734c58257c11",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.14.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.14.RELEASE_1.jar"
+    },
+    "bfbe6372fa6108018d9951c586ba97a903c27e12": {
+      "sha1": "bfbe6372fa6108018d9951c586ba97a903c27e12",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.1.1.RELEASE_4",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.1.1.RELEASE_4.jar"
+    },
+    "ec2721eabc7f0776595b92d5086751f9699fdafb": {
+      "sha1": "ec2721eabc7f0776595b92d5086751f9699fdafb",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.26.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.26.RELEASE_1.jar"
+    },
+    "185e47dc007bbaf59032bcf6b7a24a09f715a078": {
+      "sha1": "185e47dc007bbaf59032bcf6b7a24a09f715a078",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.0.15.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.0.15.RELEASE_1.jar"
+    },
+    "bf81db75b192857a84d414af1b2e8eda4ccb4398": {
+      "sha1": "bf81db75b192857a84d414af1b2e8eda4ccb4398",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.2.15.RELEASE_1-fuse-redhat-00001",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.2.15.RELEASE_1-fuse-redhat-00001.jar"
+    },
+    "4a680156087f071ec399e6616e599e812bba760a": {
+      "sha1": "4a680156087f071ec399e6616e599e812bba760a",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.27.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.27.RELEASE_1.jar"
+    },
+    "00301181ce7db4641eb3fcde4ee710e5d0b4f022": {
+      "sha1": "00301181ce7db4641eb3fcde4ee710e5d0b4f022",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.1.5.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.1.5.RELEASE_1.jar"
+    },
+    "5b982184883ddfc1d4ba25b2414fabbfe602e70c": {
+      "sha1": "5b982184883ddfc1d4ba25b2414fabbfe602e70c",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.0.8.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.0.8.RELEASE_1.jar"
+    },
+    "e79339da07e9c669d0c83ae373834158a3d3966b": {
+      "sha1": "e79339da07e9c669d0c83ae373834158a3d3966b",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.1.7.RELEASE_2",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.1.7.RELEASE_2.jar"
+    },
+    "68e8d718374572fdd16d4fa41873abba05c0e8df": {
+      "sha1": "68e8d718374572fdd16d4fa41873abba05c0e8df",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.18.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.18.RELEASE_1.jar"
+    },
+    "42542fe4ebaff5dd121aa6c70dc849d0d62cd1b0": {
+      "sha1": "42542fe4ebaff5dd121aa6c70dc849d0d62cd1b0",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.0.5.RELEASE_3",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.0.5.RELEASE_3.jar"
+    },
+    "e1aa2ee1bc9b449dcb8f3e297ab6383d1d96922d": {
+      "sha1": "e1aa2ee1bc9b449dcb8f3e297ab6383d1d96922d",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.0.6.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.0.6.RELEASE_1.jar"
+    },
+    "ec1ced426d06762199053cc13ce24c9525ff2777": {
+      "sha1": "ec1ced426d06762199053cc13ce24c9525ff2777",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "3.2.7.RELEASE_3",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-3.2.7.RELEASE_3.jar"
+    },
+    "86c808f909963ed5e9bf0c96583edb02d7b7bc8b": {
+      "sha1": "86c808f909963ed5e9bf0c96583edb02d7b7bc8b",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.5.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.5.RELEASE_1.jar"
+    },
+    "551c1ffe70080393a199b9ecf085ef31239f40ab": {
+      "sha1": "551c1ffe70080393a199b9ecf085ef31239f40ab",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.1.2.RELEASE_2",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.1.2.RELEASE_2.jar"
+    },
+    "8d95df7978ee80292d81ea1a4fd1a025a7b97711": {
+      "sha1": "8d95df7978ee80292d81ea1a4fd1a025a7b97711",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.0.4.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.0.4.RELEASE_1.jar"
+    },
+    "c3dcd021c54b54175fdb3b9d5b9734569e06d65a": {
+      "sha1": "c3dcd021c54b54175fdb3b9d5b9734569e06d65a",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "3.2.13.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-3.2.13.RELEASE_1.jar"
+    },
+    "cbd8e63b44d4365331696bb9e57c79d7fe42dc91": {
+      "sha1": "cbd8e63b44d4365331696bb9e57c79d7fe42dc91",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.1.4.RELEASE_2",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.1.4.RELEASE_2.jar"
+    },
+    "14600ba19c59270a4f78491d26db4d0b646bef71": {
+      "sha1": "14600ba19c59270a4f78491d26db4d0b646bef71",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.0.17.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.0.17.RELEASE_1.jar"
+    },
+    "5695b3068cd6d6fa8970447d0dd51810516376d5": {
+      "sha1": "5695b3068cd6d6fa8970447d0dd51810516376d5",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.2.3.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.2.3.RELEASE_1.jar"
+    },
+    "4a774dcef0ca5999197ce1c7bd7e93c0187cb4de": {
+      "sha1": "4a774dcef0ca5999197ce1c7bd7e93c0187cb4de",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.17.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.17.RELEASE_1.jar"
+    },
+    "7e3725ef8ef71fcf693a60be70f0b28d961eeb46": {
+      "sha1": "7e3725ef8ef71fcf693a60be70f0b28d961eeb46",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "3.2.17.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-3.2.17.RELEASE_1.jar"
+    },
+    "95fb5cbde78e68a45dacd198bb0ee653c725d8f2": {
+      "sha1": "95fb5cbde78e68a45dacd198bb0ee653c725d8f2",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.0.20.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.0.20.RELEASE_1.jar"
+    },
+    "11d8ca2f78808fef545b7fc04199b7a6dd165b45": {
+      "sha1": "11d8ca2f78808fef545b7fc04199b7a6dd165b45",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.2.9.RELEASE_2",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.2.9.RELEASE_2.jar"
+    },
+    "949d14ab13053954f0adf4f29b3a9b308d3d096f": {
+      "sha1": "949d14ab13053954f0adf4f29b3a9b308d3d096f",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.1.8.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.1.8.RELEASE_1.jar"
+    },
+    "cd143500c206ff8c0d967f2036888b5e11a6f73e": {
+      "sha1": "cd143500c206ff8c0d967f2036888b5e11a6f73e",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.3.10_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.3.10_1.jar"
+    },
+    "48be8f8c6509a735c513b897398d6e3d353c11b5": {
+      "sha1": "48be8f8c6509a735c513b897398d6e3d353c11b5",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.2.13.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.2.13.RELEASE_1.jar"
+    },
+    "04b92ca716559cd8fe62a8a8a312befa02b8a78e": {
+      "sha1": "04b92ca716559cd8fe62a8a8a312befa02b8a78e",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.1.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.1.RELEASE_1.jar"
+    },
+    "db7f55f40c6894b16d6d3cf4f58759b43fca3cd9": {
+      "sha1": "db7f55f40c6894b16d6d3cf4f58759b43fca3cd9",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.16.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.16.RELEASE_1.jar"
+    },
+    "ab44d001cc745fc70cb05d1214b48169c6afc86c": {
+      "sha1": "ab44d001cc745fc70cb05d1214b48169c6afc86c",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.25.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.25.RELEASE_1.jar"
+    },
+    "c4e61ce1b7fa6af0d4e52812f83fa5be75442df6": {
+      "sha1": "c4e61ce1b7fa6af0d4e52812f83fa5be75442df6",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.2.6.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.2.6.RELEASE_1.jar"
+    },
+    "2e73d05a989b710db20df858b6fc1e563e16ee58": {
+      "sha1": "2e73d05a989b710db20df858b6fc1e563e16ee58",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.1.5.RELEASE_2",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.1.5.RELEASE_2.jar"
+    },
+    "5c30ce0e7df0f47fd5c551c727e9eaffb6ef88f8": {
+      "sha1": "5c30ce0e7df0f47fd5c551c727e9eaffb6ef88f8",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.1.7.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.1.7.RELEASE_1.jar"
+    },
+    "abca80048907f9e22a6c18b9b83f7eee35d89b6d": {
+      "sha1": "abca80048907f9e22a6c18b9b83f7eee35d89b6d",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.1.6.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.1.6.RELEASE_1.jar"
+    },
+    "413eb783354431570d14e671af3f63d4987cb787": {
+      "sha1": "413eb783354431570d14e671af3f63d4987cb787",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.0.3.RELEASE_3",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.0.3.RELEASE_3.jar"
+    },
+    "2cb724f5221697f1e2dd6cc9bff8999e110b2335": {
+      "sha1": "2cb724f5221697f1e2dd6cc9bff8999e110b2335",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.13.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.13.RELEASE_1.jar"
+    },
+    "777cb9e6577079bb313fd8fbf6357e86661e6139": {
+      "sha1": "777cb9e6577079bb313fd8fbf6357e86661e6139",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.6.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.6.RELEASE_1.jar"
+    },
+    "355e96dba391c618727fc33d5aee05b8cf039f57": {
+      "sha1": "355e96dba391c618727fc33d5aee05b8cf039f57",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.2.13.RELEASE_1-fuse-redhat-00006",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.2.13.RELEASE_1-fuse-redhat-00006.jar"
+    },
+    "d096a159d5435d00a11735393e51def7d897a18a": {
+      "sha1": "d096a159d5435d00a11735393e51def7d897a18a",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.1.9.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.1.9.RELEASE_1.jar"
+    },
+    "91095a39527064a8b49fe37fa7472d4345c94ef3": {
+      "sha1": "91095a39527064a8b49fe37fa7472d4345c94ef3",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.7.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.7.RELEASE_1.jar"
+    },
+    "fe01140e707f2cdc8e086af7b8d86c852be3f1f3": {
+      "sha1": "fe01140e707f2cdc8e086af7b8d86c852be3f1f3",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.0.5.RELEASE_2",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.0.5.RELEASE_2.jar"
+    },
+    "361cd6dceabeded82c49535d1b031038810bd5cc": {
+      "sha1": "361cd6dceabeded82c49535d1b031038810bd5cc",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.3.2_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.3.2_1.jar"
+    },
+    "7e35cc916626325114d2cdf4e245bd5bc23b904a": {
+      "sha1": "7e35cc916626325114d2cdf4e245bd5bc23b904a",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.12.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.12.RELEASE_1.jar"
+    },
+    "b980779b8022d72919e45303e6f873284bb9a2ff": {
+      "sha1": "b980779b8022d72919e45303e6f873284bb9a2ff",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.2.8.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.2.8.RELEASE_1.jar"
+    },
+    "f7cf7ef1c81550074aa7140d36942a8e3bd6a63c": {
+      "sha1": "f7cf7ef1c81550074aa7140d36942a8e3bd6a63c",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.1.16.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.1.16.RELEASE_1.jar"
+    },
+    "e65cf1f4afe3e89f64710947c40130e030f9af4e": {
+      "sha1": "e65cf1f4afe3e89f64710947c40130e030f9af4e",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.10.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.10.RELEASE_1.jar"
+    },
+    "fc9a84bd6458d18eb16b66bf3736735f55ce7397": {
+      "sha1": "fc9a84bd6458d18eb16b66bf3736735f55ce7397",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.3.19.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.3.19.RELEASE_1.jar"
+    },
+    "04dc7421d2db64744746611ccfad5b1e8fe9c1c7": {
+      "sha1": "04dc7421d2db64744746611ccfad5b1e8fe9c1c7",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.1.7.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.1.7.RELEASE_1.jar"
+    },
+    "b62d6a331a961072412d69603b8bd841fea8b4bf": {
+      "sha1": "b62d6a331a961072412d69603b8bd841fea8b4bf",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.0.6.RELEASE_2",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.0.6.RELEASE_2.jar"
+    },
+    "2753667bbbeff11baedbc6a5d6a40edac28d868f": {
+      "sha1": "2753667bbbeff11baedbc6a5d6a40edac28d868f",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "3.2.16.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-3.2.16.RELEASE_1.jar"
+    },
+    "e6eb46118d6a15d64d6786113e8bff9f6acf9a5d": {
+      "sha1": "e6eb46118d6a15d64d6786113e8bff9f6acf9a5d",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.2.0.RELEASE_2",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.2.0.RELEASE_2.jar"
+    },
+    "46ecb39d5afd07ad0ab02d2e26b42ac7b9f23f4a": {
+      "sha1": "46ecb39d5afd07ad0ab02d2e26b42ac7b9f23f4a",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "3.2.14.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-3.2.14.RELEASE_1.jar"
+    },
+    "2af89d9e39da567008ccf69bbc4ba9b055a835ad": {
+      "sha1": "2af89d9e39da567008ccf69bbc4ba9b055a835ad",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.3.14_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.3.14_1.jar"
+    },
+    "ccca0b1606d8ad1ca6d0197e1cac715e4d8338e1": {
+      "sha1": "ccca0b1606d8ad1ca6d0197e1cac715e4d8338e1",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.0.2.RELEASE_3",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.0.2.RELEASE_3.jar"
+    },
+    "cfe598ae07a8a544f367e01aac5cbdeaed7300f1": {
+      "sha1": "cfe598ae07a8a544f367e01aac5cbdeaed7300f1",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "5.2.2.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-5.2.2.RELEASE_1.jar"
+    },
+    "b820f487a3c449bfee162d92199bc159ca84d047": {
+      "sha1": "b820f487a3c449bfee162d92199bc159ca84d047",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "4.2.6.RELEASE_1",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-4.2.6.RELEASE_1.jar"
+    },
+    "8be416428fab1e12cecc637f3aa074a47bea9dfb": {
+      "sha1": "8be416428fab1e12cecc637f3aa074a47bea9dfb",
+      "groupId": "org.apache.servicemix.bundles",
+      "artifactId": "org.apache.servicemix.bundles.spring-beans",
+      "packageVersion": "3.2.11.RELEASE_2",
+      "fileName": "org.apache.servicemix.bundles.spring-beans-3.2.11.RELEASE_2.jar"
+    }
+  }
+}
