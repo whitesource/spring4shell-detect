@@ -3,7 +3,6 @@
 WhiteSource spring4shell Detect is a free CLI tool that quickly scans your projects to find vulnerable Spring4shell versions
 containing the following known CVEs:
 
-* CVE-2022-22963
 * CVE-2022-22965
 
 It provides the exact path to direct and indirect dependencies, along with the fixed version for speedy remediation.
